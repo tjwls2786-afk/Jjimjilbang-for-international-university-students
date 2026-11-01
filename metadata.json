@@ -1,0 +1,6 @@
+{
+  "name": "Jjimjilbang Culture 15s Script Studio",
+  "description": "English narration, synchronized subtitles, and interactive 15-second preview introducing Korean jjimjilbang culture for international university students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
